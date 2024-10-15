@@ -12,3 +12,4 @@ C:\Users\alexa\OneDrive\Documentos\Coding\Courses\.Net and C#\CodingChallenges\1
 C:\Users\alexa\OneDrive\Documentos\Coding\Courses\.Net and C#\CodingChallenges\1\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\alexa\OneDrive\Documentos\Coding\Courses\.Net and C#\CodingChallenges\1\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\alexa\OneDrive\Documentos\Coding\Courses\.Net and C#\CodingChallenges\1\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\alexa\OneDrive\Documentos\Coding\Courses\.Net and C#\CodingChallenges\1\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
